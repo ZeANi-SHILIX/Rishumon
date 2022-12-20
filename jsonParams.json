@@ -1,0 +1,2855 @@
+{
+  "status": 1,
+  "message": "",
+  "allData": [
+    {
+      "tz": "999857931",
+      "uNum": "1",
+      "auid": "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww",
+      "title": "אבנעים דפנה",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [
+          {
+            "cUID": "065f12711b204b50166a65cd5adfcf52",
+            "with": "RPmmkBJrHG9Aw5f5JTD2MPDXVT9F3Sq7",
+            "note": "-docked-"
+          },
+          {
+            "cUID": "ad328608f3731823af0295f30ec57d79",
+            "with": "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6",
+            "note": "-docked-"
+          }
+        ],
+        "bans": [
+          {
+            "cUID": "e72f07b1a0c0c3504bbed89db8b7ae17",
+            "with": "nFSyPZ3X5NO56TEgm4eg6nTm9fQPtbvX",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "FU3Tdj1EijaEcH6ftyuWljTKwK6Wn3pV",
+          "lWu66rDefTt12qYf9nTSfRwkHZH7g8X9",
+          "DzN6otVW29ajgE2Tg2ziFCPXpYzwzL2B"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "FU3Tdj1EijaEcH6ftyuWljTKwK6Wn3pV",
+          "lWu66rDefTt12qYf9nTSfRwkHZH7g8X9",
+          "DzN6otVW29ajgE2Tg2ziFCPXpYzwzL2B",
+          "XhPQKCC4p9SxgQOQjKvj4XGKIkbNvi35"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת המדגימין",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999486509",
+      "uNum": "2",
+      "auid": "FU3Tdj1EijaEcH6ftyuWljTKwK6Wn3pV",
+      "title": "אברהם שלומית",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "DzN6otVW29ajgE2Tg2ziFCPXpYzwzL2B",
+          "SggyH2qXOVBvzACye57IMvXLQIyM0Qp3",
+          "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww",
+          "lWu66rDefTt12qYf9nTSfRwkHZH7g8X9",
+          "PTXyLSjJmVrUeTxiZi8URS0T3RwZWmwn",
+          "nQeWX4Wph40obtXOLnDfPJ7mNkcSxmYv"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת המדגימין",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999873540",
+      "uNum": "3",
+      "auid": "lWu66rDefTt12qYf9nTSfRwkHZH7g8X9",
+      "title": "אדלר יעל",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [
+          {
+            "cUID": "7b3ae6a1a77fef7347fe788fb6dd5489",
+            "with": "RPmmkBJrHG9Aw5f5JTD2MPDXVT9F3Sq7",
+            "note": "-docked-"
+          }
+        ],
+        "bans": [
+          {
+            "cUID": "cd691dade5da41faacd00544d4b47454",
+            "with": "UbOot270sZVDNs2pQn79ahYdrgjqgSmW",
+            "note": "-docked-"
+          },
+          {
+            "cUID": "c11478c12584126303ec3bf6e17f6a2b",
+            "with": "jzxBmjaaWMus40c0ga6OU8oxoNUyI8MJ",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "ייי",
+      "xssNotes": "<br>ייי",
+      "hasComment": "יש",
+      "assChoices": {
+        "choices": [
+          "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww",
+          "ZUW09Ps7Zvp0NbKALuCP0WYzIWIFP1AO",
+          "FU3Tdj1EijaEcH6ftyuWljTKwK6Wn3pV"
+        ],
+        "comment": "ייי",
+        "count": 3,
+        "wantMe": [
+          "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww",
+          "Fp46RjYGDz7RhBn0Q40fruaDv79xrVP6",
+          "nQeWX4Wph40obtXOLnDfPJ7mNkcSxmYv"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת יצחק",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 2,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 2"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "654320894",
+      "uNum": "4",
+      "auid": "WLoCrRUddfwK3PT120Koyo5ZxrwNYnpD",
+      "title": "אדלר יעלייי",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "7403bd5c64a7ede27941d9392488f844",
+            "with": "SggyH2qXOVBvzACye57IMvXLQIyM0Qp3",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "לא באותה כיתה עם אליאב יהונתן",
+      "xssNotes": "<br>לא באותה כיתה עם אליאב יהונתן",
+      "hasComment": "יש",
+      "assChoices": {
+        "choices": [
+          "doU8CcWhjTqMGPunllaTK8On8KbpaT80",
+          "0VELyy7pTudwySm5Y16xGZ7IURHIbP2Z",
+          "ejLzNTiUUePhbbrkYf118Rl6Cdb3jFuV"
+        ],
+        "comment": "לא באותה כיתה עם אליאב יהונתן",
+        "count": 3,
+        "wantMe": [
+          "nFSyPZ3X5NO56TEgm4eg6nTm9fQPtbvX"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת המדגימין",
+        "limudi": "דרוש שיפור",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999361330",
+      "uNum": "5",
+      "auid": "DzN6otVW29ajgE2Tg2ziFCPXpYzwzL2B",
+      "title": "אדלר נאיה",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "0VELyy7pTudwySm5Y16xGZ7IURHIbP2Z",
+          "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ",
+          "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww",
+          "FU3Tdj1EijaEcH6ftyuWljTKwK6Wn3pV",
+          "H0QaFewII7lP6lk5hpLYAcP56k0KRenK"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת הרישומון",
+        "limudi": "גבוהה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999707250",
+      "uNum": "6",
+      "auid": "doU8CcWhjTqMGPunllaTK8On8KbpaT80",
+      "title": "אוחיון אופק",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "RPmmkBJrHG9Aw5f5JTD2MPDXVT9F3Sq7",
+          "0SmqjndWwTm2GUmWVL07blP7yQf4fKKA",
+          "4bYAjNzgxh79jxWG0jwOdgVvZ2NCYEbF"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "WLoCrRUddfwK3PT120Koyo5ZxrwNYnpD"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת הרישומון",
+        "limudi": "דרוש שיפור",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999169790",
+      "uNum": "7",
+      "auid": "Q6nuekeKF601OESjC8kCO5o5idQatTIJ",
+      "title": "אינגרם אוריה",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "zTJh3lLpzOYB3F018IOcHhjoRIVkQ6Cu",
+          "sghDLkMEQJZkNIScnR9Fl3vCWsTYdDJZ",
+          "rWYB8OGCBhs6UEwSEr0bm0EHQdbZyXfc"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "rWYB8OGCBhs6UEwSEr0bm0EHQdbZyXfc",
+          "ZUW09Ps7Zvp0NbKALuCP0WYzIWIFP1AO",
+          "Ka7bAwC7AIVwzzWmlLokoCMB69Jjshrv"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "נמוכה",
+        "hev": "נמוכה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999950991",
+      "uNum": "8",
+      "auid": "nFSyPZ3X5NO56TEgm4eg6nTm9fQPtbvX",
+      "title": "איתם אסף",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "e72f07b1a0c0c3504bbed89db8b7ae17",
+            "with": "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "לא רוצה עם אבנעים דפנה",
+      "xssNotes": "<br>לא רוצה עם אבנעים דפנה",
+      "hasComment": "יש",
+      "assChoices": {
+        "choices": [
+          "rWYB8OGCBhs6UEwSEr0bm0EHQdbZyXfc",
+          "WLoCrRUddfwK3PT120Koyo5ZxrwNYnpD",
+          "ZUW09Ps7Zvp0NbKALuCP0WYzIWIFP1AO"
+        ],
+        "comment": "לא רוצה עם אבנעים דפנה",
+        "count": 3,
+        "wantMe": [
+          "SggyH2qXOVBvzACye57IMvXLQIyM0Qp3"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "דרוש שיפור",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999589476",
+      "uNum": "9",
+      "auid": "SggyH2qXOVBvzACye57IMvXLQIyM0Qp3",
+      "title": "אליאב יהונתן",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "7403bd5c64a7ede27941d9392488f844",
+            "with": "WLoCrRUddfwK3PT120Koyo5ZxrwNYnpD",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "nFSyPZ3X5NO56TEgm4eg6nTm9fQPtbvX",
+          "B1WbQ4emQf6ehKTeqBdgXl2WqeRNQ6tl",
+          "RPmmkBJrHG9Aw5f5JTD2MPDXVT9F3Sq7"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "FU3Tdj1EijaEcH6ftyuWljTKwK6Wn3pV",
+          "Fp46RjYGDz7RhBn0Q40fruaDv79xrVP6"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "דרוש שיפור",
+        "hev": "דרוש שיפור"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999402191",
+      "uNum": "10",
+      "auid": "zTJh3lLpzOYB3F018IOcHhjoRIVkQ6Cu",
+      "title": "אריאלי דן",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "RPmmkBJrHG9Aw5f5JTD2MPDXVT9F3Sq7",
+          "rWYB8OGCBhs6UEwSEr0bm0EHQdbZyXfc",
+          "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "Q6nuekeKF601OESjC8kCO5o5idQatTIJ",
+          "rWYB8OGCBhs6UEwSEr0bm0EHQdbZyXfc",
+          "Ka7bAwC7AIVwzzWmlLokoCMB69Jjshrv",
+          "Fp46RjYGDz7RhBn0Q40fruaDv79xrVP6",
+          "H0QaFewII7lP6lk5hpLYAcP56k0KRenK"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת המדגימין",
+        "limudi": "דרוש שיפור",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999935208",
+      "uNum": "11",
+      "auid": "rWYB8OGCBhs6UEwSEr0bm0EHQdbZyXfc",
+      "title": "בירם יואב",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "Q6nuekeKF601OESjC8kCO5o5idQatTIJ",
+          "",
+          "zTJh3lLpzOYB3F018IOcHhjoRIVkQ6Cu"
+        ],
+        "comment": "",
+        "count": 2,
+        "wantMe": [
+          "Q6nuekeKF601OESjC8kCO5o5idQatTIJ",
+          "nFSyPZ3X5NO56TEgm4eg6nTm9fQPtbvX",
+          "zTJh3lLpzOYB3F018IOcHhjoRIVkQ6Cu"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת המדגימין",
+        "limudi": "גבוהה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 2,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999477136",
+      "uNum": "12",
+      "auid": "ZUW09Ps7Zvp0NbKALuCP0WYzIWIFP1AO",
+      "title": "בן דהן נעמה",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "6WXSFhWzjMFrKfpfhy0k0FhICjfjDOqg",
+          "jzxBmjaaWMus40c0ga6OU8oxoNUyI8MJ",
+          "Q6nuekeKF601OESjC8kCO5o5idQatTIJ"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "lWu66rDefTt12qYf9nTSfRwkHZH7g8X9",
+          "nFSyPZ3X5NO56TEgm4eg6nTm9fQPtbvX"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת הרישומון",
+        "limudi": "גבוהה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999915416",
+      "uNum": "13",
+      "auid": "iANAXO1gkVxFtQbyTZSXgdB46rEea6bq",
+      "title": "בנטל שרון",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "gg6rd1Su639VHMvVwk5mJZh0UJZVnvCI",
+          "npil0xreOnW3w4JnpaMDgy6NJWVm2yMd",
+          "6WXSFhWzjMFrKfpfhy0k0FhICjfjDOqg"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "mFt3tRqO5UMZmP2mZ5nQrJV2RC9PVdro"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "בינונית",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999992167",
+      "uNum": "14",
+      "auid": "vQL5sogqQs5gzmHtjCOL4toAqVNKHXD2",
+      "title": "בנימין רעות",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "1049500c7812f83721619ada550954ad",
+            "with": "SEvyP3yPZ8WiDgYelChpiDCnuq48bYvf",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "vFNqxGMxHmEvHs30yCCV2SVpFp9qcNoV",
+          "Vt2DDhdeIysUKiUUAHT65ItSn0yxOBfU",
+          "jzxBmjaaWMus40c0ga6OU8oxoNUyI8MJ"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "mFt3tRqO5UMZmP2mZ5nQrJV2RC9PVdro",
+          "XL3DAF9wKFOyJTkcOwYbAiuf5xNyWZ0B"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת הרישומון",
+        "limudi": "גבוהה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999772825",
+      "uNum": "15",
+      "auid": "B1WbQ4emQf6ehKTeqBdgXl2WqeRNQ6tl",
+      "title": "בריקמן ליאור",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [
+          {
+            "cUID": "b1aef660a02f7e0d51af4418dcff2666",
+            "with": "Vt2DDhdeIysUKiUUAHT65ItSn0yxOBfU",
+            "note": "-docked-"
+          }
+        ],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "icHG7gJdMWbsFQ7jwPeK9BP6ZiuolxeP",
+          "H0QaFewII7lP6lk5hpLYAcP56k0KRenK",
+          "npil0xreOnW3w4JnpaMDgy6NJWVm2yMd"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "SggyH2qXOVBvzACye57IMvXLQIyM0Qp3",
+          "SEvyP3yPZ8WiDgYelChpiDCnuq48bYvf"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת יצחק",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999589559",
+      "uNum": "16",
+      "auid": "569ojb6xCkwJe1kk8i0IwkQsxq27rHK5",
+      "title": "גולדברג אוהד",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "b71ec7d030708cb18d2a5f97e4696705",
+            "with": "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "IHgAuWJYuh5WR15KPEJj4jZ2OJ0Jso8Q",
+          "sghDLkMEQJZkNIScnR9Fl3vCWsTYdDJZ",
+          "mFt3tRqO5UMZmP2mZ5nQrJV2RC9PVdro"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "SEvyP3yPZ8WiDgYelChpiDCnuq48bYvf"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "גבוהה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999061286",
+      "uNum": "17",
+      "auid": "Ka7bAwC7AIVwzzWmlLokoCMB69Jjshrv",
+      "title": "גולדשטיין אוראל",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "zTJh3lLpzOYB3F018IOcHhjoRIVkQ6Cu",
+          "Q6nuekeKF601OESjC8kCO5o5idQatTIJ",
+          "iBZbtmZfxrHfNuXW3Y4RssCJW1n6btg1"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "GUgqn02C7yRWdgd1rQ420xXJfjLYAvgW"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת הרישומון",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999870488",
+      "uNum": "18",
+      "auid": "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6",
+      "title": "גינסבורג שהם",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [
+          {
+            "cUID": "ad328608f3731823af0295f30ec57d79",
+            "with": "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww",
+            "note": "-docked-"
+          }
+        ],
+        "bans": [
+          {
+            "cUID": "b71ec7d030708cb18d2a5f97e4696705",
+            "with": "569ojb6xCkwJe1kk8i0IwkQsxq27rHK5",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "e8Uaxo1PHbm9RVNSlMdvnIb5oa8Yx25v",
+          "ZoTrW0aQNzvs8V2lUiD0EMDRPO8n34FI",
+          "sghDLkMEQJZkNIScnR9Fl3vCWsTYdDJZ"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "zTJh3lLpzOYB3F018IOcHhjoRIVkQ6Cu",
+          "lNnJIbWGsBilpUMjkWRcFPMDATmPWDU0",
+          "GUgqn02C7yRWdgd1rQ420xXJfjLYAvgW",
+          "UbOot270sZVDNs2pQn79ahYdrgjqgSmW",
+          "nQeWX4Wph40obtXOLnDfPJ7mNkcSxmYv"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת הרישומון",
+        "limudi": "גבוהה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999071483",
+      "uNum": "19",
+      "auid": "0VELyy7pTudwySm5Y16xGZ7IURHIbP2Z",
+      "title": "גרינפלד אבי",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "H0QaFewII7lP6lk5hpLYAcP56k0KRenK",
+          "4iQBQ4SbfqJ4IHl6xAduPVS4h9nV07Xt",
+          "ZoTrW0aQNzvs8V2lUiD0EMDRPO8n34FI"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "WLoCrRUddfwK3PT120Koyo5ZxrwNYnpD",
+          "DzN6otVW29ajgE2Tg2ziFCPXpYzwzL2B",
+          "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "גבוהה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999245608",
+      "uNum": "20",
+      "auid": "lNnJIbWGsBilpUMjkWRcFPMDATmPWDU0",
+      "title": "דבורי ניר",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "vFNqxGMxHmEvHs30yCCV2SVpFp9qcNoV",
+          "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6",
+          "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "mFt3tRqO5UMZmP2mZ5nQrJV2RC9PVdro",
+          "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ",
+          "PTXyLSjJmVrUeTxiZi8URS0T3RwZWmwn",
+          "DUbSRlP8pNlVwU8oR9mfeaDAMCiq6nCW",
+          "H0QaFewII7lP6lk5hpLYAcP56k0KRenK"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת המדגימין",
+        "limudi": "בינונית",
+        "hev": "דרוש שיפור"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999277973",
+      "uNum": "21",
+      "auid": "mFt3tRqO5UMZmP2mZ5nQrJV2RC9PVdro",
+      "title": "דובב אלכס",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "lNnJIbWGsBilpUMjkWRcFPMDATmPWDU0",
+          "iANAXO1gkVxFtQbyTZSXgdB46rEea6bq",
+          "vQL5sogqQs5gzmHtjCOL4toAqVNKHXD2"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "569ojb6xCkwJe1kk8i0IwkQsxq27rHK5",
+          "XL3DAF9wKFOyJTkcOwYbAiuf5xNyWZ0B",
+          "XhPQKCC4p9SxgQOQjKvj4XGKIkbNvi35"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "נמוכה",
+        "hev": "דרוש שיפור"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999789951",
+      "uNum": "22",
+      "auid": "YNE06B0HnLsxsX7okIe2VuoBQ32eib2Y",
+      "title": "דידי עמית",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ",
+          "AY64HOcyLuJ9z5OqO2umOZRZfaRKiKre",
+          "ejLzNTiUUePhbbrkYf118Rl6Cdb3jFuV"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "AY64HOcyLuJ9z5OqO2umOZRZfaRKiKre",
+          "0SmqjndWwTm2GUmWVL07blP7yQf4fKKA",
+          "6NEZJYHW2ZGUuNFJG6Xmzoib383OsMoH",
+          "XhPQKCC4p9SxgQOQjKvj4XGKIkbNvi35",
+          "UQw1WpYkKHc5v8V0GRbwUgyXN9wMWawd",
+          "oeXXHnhFTX5qXpx6dKtOdm2dXc8KdEW5"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת ביניים פתח תקווה",
+        "limudi": "דרוש שיפור",
+        "hev": "נמוכה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999061815",
+      "uNum": "23",
+      "auid": "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ",
+      "title": "וולך מירב",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [
+          {
+            "cUID": "5ea562f83a70b8e029dc411424a906bd",
+            "with": "rMxwUzYIzuIgQhG7FrnkPZ6wsyruQ7ZJ",
+            "note": "-docked-"
+          }
+        ],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "0VELyy7pTudwySm5Y16xGZ7IURHIbP2Z",
+          "lNnJIbWGsBilpUMjkWRcFPMDATmPWDU0",
+          "oeXXHnhFTX5qXpx6dKtOdm2dXc8KdEW5"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "DzN6otVW29ajgE2Tg2ziFCPXpYzwzL2B",
+          "lNnJIbWGsBilpUMjkWRcFPMDATmPWDU0",
+          "YNE06B0HnLsxsX7okIe2VuoBQ32eib2Y",
+          "0SmqjndWwTm2GUmWVL07blP7yQf4fKKA",
+          "6NEZJYHW2ZGUuNFJG6Xmzoib383OsMoH",
+          "SEvyP3yPZ8WiDgYelChpiDCnuq48bYvf"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת המדגימין",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999668981",
+      "uNum": "24",
+      "auid": "AY64HOcyLuJ9z5OqO2umOZRZfaRKiKre",
+      "title": "וורטנטיינל נאיה",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "YNE06B0HnLsxsX7okIe2VuoBQ32eib2Y",
+          "ejLzNTiUUePhbbrkYf118Rl6Cdb3jFuV",
+          "4bYAjNzgxh79jxWG0jwOdgVvZ2NCYEbF"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "YNE06B0HnLsxsX7okIe2VuoBQ32eib2Y",
+          "YOayihVZmctKRa8DavZEFQkCweYoUS8h",
+          "rMxwUzYIzuIgQhG7FrnkPZ6wsyruQ7ZJ",
+          "ZoTrW0aQNzvs8V2lUiD0EMDRPO8n34FI"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "",
+        "limudi": "גבוהה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999146392",
+      "uNum": "25",
+      "auid": "ejLzNTiUUePhbbrkYf118Rl6Cdb3jFuV",
+      "title": "וייס שמעון",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "YOayihVZmctKRa8DavZEFQkCweYoUS8h",
+          "DUbSRlP8pNlVwU8oR9mfeaDAMCiq6nCW"
+        ],
+        "comment": "",
+        "count": 2,
+        "wantMe": [
+          "WLoCrRUddfwK3PT120Koyo5ZxrwNYnpD",
+          "YNE06B0HnLsxsX7okIe2VuoBQ32eib2Y",
+          "AY64HOcyLuJ9z5OqO2umOZRZfaRKiKre",
+          "6NEZJYHW2ZGUuNFJG6Xmzoib383OsMoH",
+          "DUbSRlP8pNlVwU8oR9mfeaDAMCiq6nCW",
+          "rOEhUl5vGFRrWEZD3eeFLuoXmBtlhH4j"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת ביניים פתח תקווה",
+        "limudi": "גבוהה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 2,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999521842",
+      "uNum": "26",
+      "auid": "YOayihVZmctKRa8DavZEFQkCweYoUS8h",
+      "title": "וליידין סנטה",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "AY64HOcyLuJ9z5OqO2umOZRZfaRKiKre",
+          "DUbSRlP8pNlVwU8oR9mfeaDAMCiq6nCW",
+          "UQw1WpYkKHc5v8V0GRbwUgyXN9wMWawd"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "ejLzNTiUUePhbbrkYf118Rl6Cdb3jFuV",
+          "RPmmkBJrHG9Aw5f5JTD2MPDXVT9F3Sq7"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת הרישומון",
+        "limudi": "נמוכה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999442775",
+      "uNum": "27",
+      "auid": "9sia4QlxeMeOYtejQoyUVItEb3XYegv7",
+      "title": "ורדי אפי",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "82cbec5217ec59a44389ea042d036655",
+            "with": "YWHZ3hbOgzmWjSwMvaFdy1ihD8MDtueQ",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "jzxBmjaaWMus40c0ga6OU8oxoNUyI8MJ",
+          "npil0xreOnW3w4JnpaMDgy6NJWVm2yMd",
+          "YWHZ3hbOgzmWjSwMvaFdy1ihD8MDtueQ"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "rMxwUzYIzuIgQhG7FrnkPZ6wsyruQ7ZJ"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת המדגימין",
+        "limudi": "בינונית",
+        "hev": "דרוש שיפור"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999551492",
+      "uNum": "28",
+      "auid": "iBZbtmZfxrHfNuXW3Y4RssCJW1n6btg1",
+      "title": "זרובין מתן",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "gg6rd1Su639VHMvVwk5mJZh0UJZVnvCI",
+          "rOEhUl5vGFRrWEZD3eeFLuoXmBtlhH4j"
+        ],
+        "comment": "",
+        "count": 2,
+        "wantMe": [
+          "Ka7bAwC7AIVwzzWmlLokoCMB69Jjshrv"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "בינונית",
+        "hev": "דרוש שיפור"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 2,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999010960",
+      "uNum": "29",
+      "auid": "rMxwUzYIzuIgQhG7FrnkPZ6wsyruQ7ZJ",
+      "title": "חביבה עידן",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [
+          {
+            "cUID": "5ea562f83a70b8e029dc411424a906bd",
+            "with": "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ",
+            "note": "-docked-"
+          }
+        ],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "9sia4QlxeMeOYtejQoyUVItEb3XYegv7",
+          "AY64HOcyLuJ9z5OqO2umOZRZfaRKiKre",
+          "Vt2DDhdeIysUKiUUAHT65ItSn0yxOBfU"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": []
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "נמוכה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999343221",
+      "uNum": "30",
+      "auid": "0SmqjndWwTm2GUmWVL07blP7yQf4fKKA",
+      "title": "חן נועם",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [
+          {
+            "cUID": "3523f3a8af26d48b714659a00f2fc608",
+            "with": "6NEZJYHW2ZGUuNFJG6Xmzoib383OsMoH",
+            "note": "-docked-"
+          }
+        ],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ",
+          "YNE06B0HnLsxsX7okIe2VuoBQ32eib2Y",
+          "XL3DAF9wKFOyJTkcOwYbAiuf5xNyWZ0B"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "doU8CcWhjTqMGPunllaTK8On8KbpaT80"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת המדגימין",
+        "limudi": "נמוכה",
+        "hev": "דרוש שיפור"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999367261",
+      "uNum": "31",
+      "auid": "6NEZJYHW2ZGUuNFJG6Xmzoib383OsMoH",
+      "title": "טורם עומר",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [
+          {
+            "cUID": "3523f3a8af26d48b714659a00f2fc608",
+            "with": "0SmqjndWwTm2GUmWVL07blP7yQf4fKKA",
+            "note": "-docked-"
+          }
+        ],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "YNE06B0HnLsxsX7okIe2VuoBQ32eib2Y",
+          "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ",
+          "ejLzNTiUUePhbbrkYf118Rl6Cdb3jFuV"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "KkW6DO7H8SfSxQwSGvEF5HWeibq5kcuM"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת יצחק",
+        "limudi": "גבוהה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999204258",
+      "uNum": "32",
+      "auid": "Fp46RjYGDz7RhBn0Q40fruaDv79xrVP6",
+      "title": "טמיר שירת",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "lWu66rDefTt12qYf9nTSfRwkHZH7g8X9",
+          "SggyH2qXOVBvzACye57IMvXLQIyM0Qp3",
+          "zTJh3lLpzOYB3F018IOcHhjoRIVkQ6Cu"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": []
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת המדגימין",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999460991",
+      "uNum": "33",
+      "auid": "GUgqn02C7yRWdgd1rQ420xXJfjLYAvgW",
+      "title": "טרריסטמן מאיר",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "ghjghjghj",
+      "xssNotes": "<br>ghjghjghj",
+      "hasComment": "יש",
+      "assChoices": {
+        "choices": [
+          "e8Uaxo1PHbm9RVNSlMdvnIb5oa8Yx25v",
+          "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6",
+          "Ka7bAwC7AIVwzzWmlLokoCMB69Jjshrv"
+        ],
+        "comment": "ghjghjghj",
+        "count": 3,
+        "wantMe": [
+          "rOEhUl5vGFRrWEZD3eeFLuoXmBtlhH4j"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת המדגימין",
+        "limudi": "נמוכה",
+        "hev": "נמוכה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999304280",
+      "uNum": "34",
+      "auid": "XL3DAF9wKFOyJTkcOwYbAiuf5xNyWZ0B",
+      "title": "יהודה אסף",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "PTXyLSjJmVrUeTxiZi8URS0T3RwZWmwn",
+          "vQL5sogqQs5gzmHtjCOL4toAqVNKHXD2",
+          "mFt3tRqO5UMZmP2mZ5nQrJV2RC9PVdro"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "0SmqjndWwTm2GUmWVL07blP7yQf4fKKA",
+          "UbOot270sZVDNs2pQn79ahYdrgjqgSmW"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת ביניים רחובות",
+        "limudi": "דרוש שיפור",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999508831",
+      "uNum": "35",
+      "auid": "YWHZ3hbOgzmWjSwMvaFdy1ihD8MDtueQ",
+      "title": "יצחק ליאור",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "4749f5a5076fa698af269168775436d2",
+            "with": "PTXyLSjJmVrUeTxiZi8URS0T3RwZWmwn",
+            "note": "-docked-"
+          },
+          {
+            "cUID": "82cbec5217ec59a44389ea042d036655",
+            "with": "9sia4QlxeMeOYtejQoyUVItEb3XYegv7",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "KkW6DO7H8SfSxQwSGvEF5HWeibq5kcuM",
+          "H0QaFewII7lP6lk5hpLYAcP56k0KRenK",
+          ""
+        ],
+        "comment": "",
+        "count": 2,
+        "wantMe": [
+          "9sia4QlxeMeOYtejQoyUVItEb3XYegv7"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "בינונית",
+        "hev": "נמוכה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 2,
+        "notBans": 2,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 2"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999717010",
+      "uNum": "36",
+      "auid": "KONSHX2LzZKVgFGj1Quxkvxce9CPNtHH",
+      "title": "כהן יובל",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": []
+      },
+      "eqFields": {
+        "gender": "",
+        "scl": "",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999472442",
+      "uNum": "37",
+      "auid": "UbOot270sZVDNs2pQn79ahYdrgjqgSmW",
+      "title": "כהן נדב",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "cd691dade5da41faacd00544d4b47454",
+            "with": "lWu66rDefTt12qYf9nTSfRwkHZH7g8X9",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "חייב להיות עם גינסבורג שהם!! החבר הכי טוב שלי",
+      "xssNotes": "<br>חייב להיות עם גינסבורג שהם!! החבר הכי טוב שלי",
+      "hasComment": "יש",
+      "assChoices": {
+        "choices": [
+          "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6",
+          "XL3DAF9wKFOyJTkcOwYbAiuf5xNyWZ0B",
+          "icHG7gJdMWbsFQ7jwPeK9BP6ZiuolxeP"
+        ],
+        "comment": "חייב להיות עם גינסבורג שהם!! החבר הכי טוב שלי",
+        "count": 3,
+        "wantMe": [
+          "4bYAjNzgxh79jxWG0jwOdgVvZ2NCYEbF"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "",
+        "limudi": "נמוכה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999382393",
+      "uNum": "38",
+      "auid": "XhPQKCC4p9SxgQOQjKvj4XGKIkbNvi35",
+      "title": "כהן תמיר",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww",
+          "mFt3tRqO5UMZmP2mZ5nQrJV2RC9PVdro",
+          "YNE06B0HnLsxsX7okIe2VuoBQ32eib2Y"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "gg6rd1Su639VHMvVwk5mJZh0UJZVnvCI",
+          "rOEhUl5vGFRrWEZD3eeFLuoXmBtlhH4j",
+          "ZoTrW0aQNzvs8V2lUiD0EMDRPO8n34FI"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת המדגימין",
+        "limudi": "גבוהה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999077811",
+      "uNum": "39",
+      "auid": "RPmmkBJrHG9Aw5f5JTD2MPDXVT9F3Sq7",
+      "title": "כספי עומרי",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [
+          {
+            "cUID": "7b3ae6a1a77fef7347fe788fb6dd5489",
+            "with": "lWu66rDefTt12qYf9nTSfRwkHZH7g8X9",
+            "note": "-docked-"
+          },
+          {
+            "cUID": "065f12711b204b50166a65cd5adfcf52",
+            "with": "K7bxK1N54Jyjg5eHZr9gNE55lreoQdww",
+            "note": "-docked-"
+          }
+        ],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "YOayihVZmctKRa8DavZEFQkCweYoUS8h",
+          "",
+          "sghDLkMEQJZkNIScnR9Fl3vCWsTYdDJZ"
+        ],
+        "comment": "",
+        "count": 2,
+        "wantMe": [
+          "doU8CcWhjTqMGPunllaTK8On8KbpaT80",
+          "SggyH2qXOVBvzACye57IMvXLQIyM0Qp3",
+          "zTJh3lLpzOYB3F018IOcHhjoRIVkQ6Cu",
+          "gg6rd1Su639VHMvVwk5mJZh0UJZVnvCI"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת ביניים רחובות",
+        "limudi": "בינונית",
+        "hev": "דרוש שיפור"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 2,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999143837",
+      "uNum": "40",
+      "auid": "4bYAjNzgxh79jxWG0jwOdgVvZ2NCYEbF",
+      "title": "לוי ראם",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "UbOot270sZVDNs2pQn79ahYdrgjqgSmW",
+          "UQw1WpYkKHc5v8V0GRbwUgyXN9wMWawd",
+          "gg6rd1Su639VHMvVwk5mJZh0UJZVnvCI"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "doU8CcWhjTqMGPunllaTK8On8KbpaT80",
+          "AY64HOcyLuJ9z5OqO2umOZRZfaRKiKre"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת ביניים רחובות",
+        "limudi": "בינונית",
+        "hev": "דרוש שיפור"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999692841",
+      "uNum": "41",
+      "auid": "UQw1WpYkKHc5v8V0GRbwUgyXN9wMWawd",
+      "title": "לנגר אהוד",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "YNE06B0HnLsxsX7okIe2VuoBQ32eib2Y",
+          "gg6rd1Su639VHMvVwk5mJZh0UJZVnvCI",
+          "vFNqxGMxHmEvHs30yCCV2SVpFp9qcNoV"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "YOayihVZmctKRa8DavZEFQkCweYoUS8h",
+          "4bYAjNzgxh79jxWG0jwOdgVvZ2NCYEbF"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת ביניים פתח תקווה",
+        "limudi": "גבוהה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999869217",
+      "uNum": "42",
+      "auid": "KkW6DO7H8SfSxQwSGvEF5HWeibq5kcuM",
+      "title": "מזרחי דנה",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "6WXSFhWzjMFrKfpfhy0k0FhICjfjDOqg",
+          "vFNqxGMxHmEvHs30yCCV2SVpFp9qcNoV",
+          "6NEZJYHW2ZGUuNFJG6Xmzoib383OsMoH"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "YWHZ3hbOgzmWjSwMvaFdy1ihD8MDtueQ"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת יצחק",
+        "limudi": "בינונית",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999144165",
+      "uNum": "43",
+      "auid": "PTXyLSjJmVrUeTxiZi8URS0T3RwZWmwn",
+      "title": "מיכאלי מירב",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "4749f5a5076fa698af269168775436d2",
+            "with": "YWHZ3hbOgzmWjSwMvaFdy1ihD8MDtueQ",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "FU3Tdj1EijaEcH6ftyuWljTKwK6Wn3pV",
+          "vFNqxGMxHmEvHs30yCCV2SVpFp9qcNoV",
+          "lNnJIbWGsBilpUMjkWRcFPMDATmPWDU0"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "XL3DAF9wKFOyJTkcOwYbAiuf5xNyWZ0B"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת יצחק",
+        "limudi": "גבוהה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999003718",
+      "uNum": "44",
+      "auid": "nQeWX4Wph40obtXOLnDfPJ7mNkcSxmYv",
+      "title": "מילר נדב",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "FU3Tdj1EijaEcH6ftyuWljTKwK6Wn3pV",
+          "lWu66rDefTt12qYf9nTSfRwkHZH7g8X9",
+          "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "gg6rd1Su639VHMvVwk5mJZh0UJZVnvCI"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "דרוש שיפור",
+        "hev": "דרוש שיפור"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999596190",
+      "uNum": "45",
+      "auid": "gg6rd1Su639VHMvVwk5mJZh0UJZVnvCI",
+      "title": "מנדל נדב",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "XhPQKCC4p9SxgQOQjKvj4XGKIkbNvi35",
+          "RPmmkBJrHG9Aw5f5JTD2MPDXVT9F3Sq7",
+          "nQeWX4Wph40obtXOLnDfPJ7mNkcSxmYv"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "iANAXO1gkVxFtQbyTZSXgdB46rEea6bq",
+          "iBZbtmZfxrHfNuXW3Y4RssCJW1n6btg1",
+          "4bYAjNzgxh79jxWG0jwOdgVvZ2NCYEbF",
+          "UQw1WpYkKHc5v8V0GRbwUgyXN9wMWawd"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת המדגימין",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999348444",
+      "uNum": "46",
+      "auid": "DUbSRlP8pNlVwU8oR9mfeaDAMCiq6nCW",
+      "title": "משה משה",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "lNnJIbWGsBilpUMjkWRcFPMDATmPWDU0",
+          "ejLzNTiUUePhbbrkYf118Rl6Cdb3jFuV",
+          "jzxBmjaaWMus40c0ga6OU8oxoNUyI8MJ"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "ejLzNTiUUePhbbrkYf118Rl6Cdb3jFuV",
+          "YOayihVZmctKRa8DavZEFQkCweYoUS8h"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת ביניים פתח תקווה",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999363633",
+      "uNum": "47",
+      "auid": "rOEhUl5vGFRrWEZD3eeFLuoXmBtlhH4j",
+      "title": "נוימן טלי",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "XhPQKCC4p9SxgQOQjKvj4XGKIkbNvi35",
+          "GUgqn02C7yRWdgd1rQ420xXJfjLYAvgW",
+          "ejLzNTiUUePhbbrkYf118Rl6Cdb3jFuV"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "iBZbtmZfxrHfNuXW3Y4RssCJW1n6btg1"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת המדגימין",
+        "limudi": "גבוהה",
+        "hev": "נמוכה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999687734",
+      "uNum": "48",
+      "auid": "H0QaFewII7lP6lk5hpLYAcP56k0KRenK",
+      "title": "עפרוני יובל",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "DzN6otVW29ajgE2Tg2ziFCPXpYzwzL2B",
+          "lNnJIbWGsBilpUMjkWRcFPMDATmPWDU0",
+          "zTJh3lLpzOYB3F018IOcHhjoRIVkQ6Cu"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "B1WbQ4emQf6ehKTeqBdgXl2WqeRNQ6tl",
+          "0VELyy7pTudwySm5Y16xGZ7IURHIbP2Z",
+          "YWHZ3hbOgzmWjSwMvaFdy1ihD8MDtueQ",
+          "4iQBQ4SbfqJ4IHl6xAduPVS4h9nV07Xt"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "בינונית",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999000953",
+      "uNum": "49",
+      "auid": "4iQBQ4SbfqJ4IHl6xAduPVS4h9nV07Xt",
+      "title": "פורת יובל",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "לא רוצה להיות עם מיכאלי מירב!!",
+      "xssNotes": "<br>לא רוצה להיות עם מיכאלי מירב!!",
+      "hasComment": "יש",
+      "assChoices": {
+        "choices": [
+          "icHG7gJdMWbsFQ7jwPeK9BP6ZiuolxeP",
+          "xW2E930MRkoLBCSydZvihmN3Z9UqSxpb",
+          "H0QaFewII7lP6lk5hpLYAcP56k0KRenK"
+        ],
+        "comment": "לא רוצה להיות עם מיכאלי מירב!!",
+        "count": 3,
+        "wantMe": [
+          "0VELyy7pTudwySm5Y16xGZ7IURHIbP2Z"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת הרישומון",
+        "limudi": "נמוכה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999400070",
+      "uNum": "50",
+      "auid": "SEvyP3yPZ8WiDgYelChpiDCnuq48bYvf",
+      "title": "פלסר בעז",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "1049500c7812f83721619ada550954ad",
+            "with": "vQL5sogqQs5gzmHtjCOL4toAqVNKHXD2",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "B1WbQ4emQf6ehKTeqBdgXl2WqeRNQ6tl",
+          "569ojb6xCkwJe1kk8i0IwkQsxq27rHK5",
+          "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": []
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "גבוהה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999530751",
+      "uNum": "51",
+      "auid": "oeXXHnhFTX5qXpx6dKtOdm2dXc8KdEW5",
+      "title": "פרידמן אסף",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "YNE06B0HnLsxsX7okIe2VuoBQ32eib2Y",
+          "oeXXHnhFTX5qXpx6dKtOdm2dXc8KdEW5",
+          ""
+        ],
+        "comment": "",
+        "count": 2,
+        "wantMe": [
+          "Th0KZN22gbPH4bVVAN800aSmW5iiduMJ",
+          "oeXXHnhFTX5qXpx6dKtOdm2dXc8KdEW5"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת ביניים רחובות",
+        "limudi": "גבוהה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 2,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999028566",
+      "uNum": "52",
+      "auid": "ZoTrW0aQNzvs8V2lUiD0EMDRPO8n34FI",
+      "title": "פרידמן עמיחי",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "XhPQKCC4p9SxgQOQjKvj4XGKIkbNvi35",
+          "vFNqxGMxHmEvHs30yCCV2SVpFp9qcNoV",
+          "AY64HOcyLuJ9z5OqO2umOZRZfaRKiKre"
+        ],
+        "comment": "",
+        "count": 3,
+        "wantMe": [
+          "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6",
+          "0VELyy7pTudwySm5Y16xGZ7IURHIbP2Z"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "גבוהה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": 3,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999855596",
+      "uNum": "53",
+      "auid": "IHgAuWJYuh5WR15KPEJj4jZ2OJ0Jso8Q",
+      "title": "פרייזלר אסתר",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": [
+          "569ojb6xCkwJe1kk8i0IwkQsxq27rHK5"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת המדגימין",
+        "limudi": "דרוש שיפור",
+        "hev": "נמוכה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999868276",
+      "uNum": "54",
+      "auid": "e8Uaxo1PHbm9RVNSlMdvnIb5oa8Yx25v",
+      "title": "פרנק ליאת",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": [
+          "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6",
+          "GUgqn02C7yRWdgd1rQ420xXJfjLYAvgW"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת המדגימין",
+        "limudi": "דרוש שיפור",
+        "hev": "דרוש שיפור"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "963145628",
+      "uNum": "55",
+      "auid": "npil0xreOnW3w4JnpaMDgy6NJWVm2yMd",
+      "title": "קוף קוף",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": [
+          "iANAXO1gkVxFtQbyTZSXgdB46rEea6bq",
+          "B1WbQ4emQf6ehKTeqBdgXl2WqeRNQ6tl",
+          "9sia4QlxeMeOYtejQoyUVItEb3XYegv7"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת הרישומון",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999243181",
+      "uNum": "56",
+      "auid": "xW2E930MRkoLBCSydZvihmN3Z9UqSxpb",
+      "title": "ראובן שביט",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": [
+          "4iQBQ4SbfqJ4IHl6xAduPVS4h9nV07Xt"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת המדגימין",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999885700",
+      "uNum": "57",
+      "auid": "icHG7gJdMWbsFQ7jwPeK9BP6ZiuolxeP",
+      "title": "ראם שון",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": [
+          "B1WbQ4emQf6ehKTeqBdgXl2WqeRNQ6tl",
+          "UbOot270sZVDNs2pQn79ahYdrgjqgSmW",
+          "4iQBQ4SbfqJ4IHl6xAduPVS4h9nV07Xt"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "בינונית",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999247828",
+      "uNum": "58",
+      "auid": "sghDLkMEQJZkNIScnR9Fl3vCWsTYdDJZ",
+      "title": "רמון חיים",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": [
+          "Q6nuekeKF601OESjC8kCO5o5idQatTIJ",
+          "569ojb6xCkwJe1kk8i0IwkQsxq27rHK5",
+          "EavCKXxrvRFSwIUAGgmUC1PD9WkWwCW6",
+          "RPmmkBJrHG9Aw5f5JTD2MPDXVT9F3Sq7"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת המדגימין",
+        "limudi": "בינונית",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999537772",
+      "uNum": "59",
+      "auid": "jzxBmjaaWMus40c0ga6OU8oxoNUyI8MJ",
+      "title": "שאול דן",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": [
+          {
+            "cUID": "c11478c12584126303ec3bf6e17f6a2b",
+            "with": "lWu66rDefTt12qYf9nTSfRwkHZH7g8X9",
+            "note": "-docked-"
+          }
+        ]
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": [
+          "ZUW09Ps7Zvp0NbKALuCP0WYzIWIFP1AO",
+          "vQL5sogqQs5gzmHtjCOL4toAqVNKHXD2",
+          "9sia4QlxeMeOYtejQoyUVItEb3XYegv7",
+          "DUbSRlP8pNlVwU8oR9mfeaDAMCiq6nCW"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "נמוכה",
+        "hev": "בינונית"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 1,
+        "notWiths": 0,
+        "sumProblems": "איסורים - 1"
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999557127",
+      "uNum": "60",
+      "auid": "Vt2DDhdeIysUKiUUAHT65ItSn0yxOBfU",
+      "title": "שאול רננה",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [
+          {
+            "cUID": "b1aef660a02f7e0d51af4418dcff2666",
+            "with": "B1WbQ4emQf6ehKTeqBdgXl2WqeRNQ6tl",
+            "note": "-docked-"
+          }
+        ],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": [
+          "vQL5sogqQs5gzmHtjCOL4toAqVNKHXD2",
+          "rMxwUzYIzuIgQhG7FrnkPZ6wsyruQ7ZJ"
+        ]
+      },
+      "eqFields": {
+        "gender": "נקבה",
+        "scl": "חטיבת הרישומון",
+        "limudi": "דרוש שיפור",
+        "hev": "נמוכה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999003569",
+      "uNum": "61",
+      "auid": "vFNqxGMxHmEvHs30yCCV2SVpFp9qcNoV",
+      "title": "שבת ליאור",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": [
+          "vQL5sogqQs5gzmHtjCOL4toAqVNKHXD2",
+          "lNnJIbWGsBilpUMjkWRcFPMDATmPWDU0",
+          "UQw1WpYkKHc5v8V0GRbwUgyXN9wMWawd",
+          "KkW6DO7H8SfSxQwSGvEF5HWeibq5kcuM",
+          "PTXyLSjJmVrUeTxiZi8URS0T3RwZWmwn",
+          "ZoTrW0aQNzvs8V2lUiD0EMDRPO8n34FI"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת הרישומון",
+        "limudi": "גבוהה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    },
+    {
+      "tz": "999564404",
+      "uNum": "62",
+      "auid": "6WXSFhWzjMFrKfpfhy0k0FhICjfjDOqg",
+      "title": "תשובה נעם",
+      "gradeView": 0,
+      "classWhiteList": [],
+      "mCnstrains": {
+        "with": [],
+        "bans": []
+      },
+      "notes": "",
+      "xssNotes": "<br>",
+      "hasComment": "",
+      "assChoices": {
+        "choices": [
+          "",
+          "",
+          ""
+        ],
+        "comment": "",
+        "count": 0,
+        "wantMe": [
+          "ZUW09Ps7Zvp0NbKALuCP0WYzIWIFP1AO",
+          "iANAXO1gkVxFtQbyTZSXgdB46rEea6bq",
+          "KkW6DO7H8SfSxQwSGvEF5HWeibq5kcuM"
+        ]
+      },
+      "eqFields": {
+        "gender": "זכר",
+        "scl": "חטיבת המדגימין",
+        "limudi": "גבוהה",
+        "hev": "גבוהה"
+      },
+      "class": 0,
+      "classLocked": 0,
+      "stats": {
+        "friends": false,
+        "notBans": 0,
+        "notWiths": 0,
+        "sumProblems": ""
+      },
+      "friendPaired": true
+    }
+  ]
+}
