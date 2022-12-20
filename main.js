@@ -1,6 +1,6 @@
 const fs = require('fs').promises;
 
-
+console.log("hi")
 
 async function loadData(){
     let dataJson = await fs.readFile("jsonParams.json");
