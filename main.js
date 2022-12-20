@@ -103,6 +103,7 @@ for (let gr of groups) {
 let flag = true;
 let innerFlag = false;
 for (let std of students) {
+    innerFlag = false;
     for (let stdOriginal of Data["allData"])
         if (std["auid"] === stdOriginal["auid"])
             innerFlag = true;
