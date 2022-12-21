@@ -1,9 +1,10 @@
 const { Group, mergeGroups } = require('./group');
 const { Class } = require('./class');
-const Data = require('./jsonParams.json');
+//const Data = require('./jsonParams.json');
 
 const express = require('express');
 
+let Data;
 var bodyParser = require('body-parser');
 var jsonParser = bodyParser.json()
 
@@ -22,6 +23,7 @@ app.post('/api',jsonParser, async function (req, res) {
     var body = req.body;
     console.log(body);
     console.log("start calculating...")
+    Data = body;
 
     await main();
 
@@ -71,7 +73,7 @@ tempStudents.pop();
 const students = [];
 const groups = [];
 const classes = [];
-const maxNumInClass = Data.maxNumInClass;
+
 let totalScore = 0;
 const resultJson = [];
 
@@ -81,6 +83,7 @@ let maxClasses = [];
 
 async function main() {
 
+    const maxNumInClass = Data.maxNumInClass;
     for (let i = 1; i <= Data.NumClasses; i++) {
         classes[i] = new Class(i, maxNumInClass);
     }
