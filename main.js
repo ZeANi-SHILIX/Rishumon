@@ -1,5 +1,5 @@
 const { exit } = require('process');
-const Group = require('./group');
+const {Group, mergeGroups} = require('./group');
 const Class = require('./class');
 const Data = require('./jsonParams.json');
 
@@ -111,3 +111,5 @@ for (let std of students) {
         flag = false
 }
 console.log(flag);
+
+console.log(mergeGroups(groups[1], groups[2]))
