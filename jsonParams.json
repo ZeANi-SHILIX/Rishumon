@@ -1,4 +1,6 @@
 {
+  "NumClasses": 3,
+  "maxNumInClass" : 25,
   "status": 1,
   "message": "",
   "allData": [
@@ -160,8 +162,8 @@
         "limudi": "בינונית",
         "hev": "בינונית"
       },
-      "class": 0,
-      "classLocked": 0,
+      "class": 2,
+      "classLocked": 1,
       "stats": {
         "friends": 3,
         "notBans": 2,

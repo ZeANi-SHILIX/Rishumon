@@ -4,6 +4,8 @@ class Group {
     bans = [];
     with = [];
     choices = [];
+    executedChoices = 0;
+    removedChoices = 0;
 
 
     constructor(id) {
@@ -25,7 +27,9 @@ class Group {
 
         elem["assChoices"]["choices"].forEach(auid => {
             if (!this.choices.includes(auid))
-                this.choices.push(auid);
+                if (auid != "")
+                    this.choices.push(auid);
+            
         });
 
     }
@@ -38,9 +42,10 @@ class Group {
  * merge two groups to new group
  * @param {Group} gr1 
  * @param {Group} gr2 
+ * @param {Number} maxNum max number in class
  * @returns {Group | undefined} - gr3
  */
-function mergeGroups(gr1, gr2) {
+function mergeGroups(gr1, gr2, maxNum) {
     let gr3 = new Group(gr1.id);
 
     // merge all data
@@ -51,22 +56,60 @@ function mergeGroups(gr1, gr2) {
 
     // check no conflicts
     for (let ban of gr3.bans) {
-        for (let w of gr3.with)
-            if (ban === w)
+        for (let std of gr3.std)
+            if (ban === std)
                 return undefined;
 
     }
 
+    // no exception from max number of students in class
+    if (gr3.students.length > maxNum)
+        return undefined;
+
+    // no different in pinned classes
+    for (let index = 0; index < gr3.students.length; index++) {
+        for (let innerIndex = index + 1; innerIndex < gr3.students.length; innerIndex++){
+
+            if (gr3.students[index].classLocked && gr3.students[innerIndex].classLocked){
+                if (gr3.students[index].class !== gr3.students[innerIndex].class){
+                    return undefined;
+                }
+            }
+        }
+    }
+
+    let removedChoices = 0;
     for (let ban of gr3.bans) {
         for (let choice of gr3.choices) {
             if (choice === ban) {
                 // remove choice from list
                 let index = gr3.choices.indexOf(choice);
                 gr3.choices.splice(index, 1);
-            }   
+                removedChoices++;
+            }
         }
     }
 
+    let executedChoices = 0;
+    for (let choiceGr1 of gr1.choices) {
+        for (let stdGr2 of gr2.students) {
+            if (choiceGr1 === stdGr2) {
+                executedChoices++;
+                break;
+            }
+        }
+    }
+    for (let choiceGr2 of gr2.choices) {
+        for (let stdGr1 of gr1.students) {
+            if (choiceGr2 === stdGr1) {
+                executedChoices++;
+                break;
+            }
+        }
+    }
+    gr3.executedChoices = executedChoices;
+    gr3.removedChoices = removedChoices;
+
     return gr3;
 }
-module.exports = {Group, mergeGroups};
+module.exports = { Group, mergeGroups };

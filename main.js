@@ -1,7 +1,9 @@
 const { exit } = require('process');
-const {Group, mergeGroups} = require('./group');
-const Class = require('./class');
+const { Group, mergeGroups } = require('./group');
+const { Class } = require('./class');
 const Data = require('./jsonParams.json');
+const { Worker } = require('worker_threads');
+
 
 //console.log(Data);
 
@@ -43,6 +45,13 @@ tempStudents.pop();
 const students = [];
 const groups = [];
 const classes = [];
+const maxNumInClass = Data.maxNumInClass;
+
+global.structuredClone = (val) => JSON.parse(JSON.stringify(val))
+
+for (let i = 1; i <= Data.NumClasses; i++) {
+    classes[i] = new Class(i);
+}
 
 // copy students from data
 Data["allData"].forEach(element => {
@@ -112,4 +121,42 @@ for (let std of students) {
 }
 console.log(flag);
 
-console.log(mergeGroups(groups[1], groups[2]))
+// console.log(groups[1].choices)
+// console.log(groups[2].choices)
+
+// let gr3 = mergeGroups(groups[1], groups[2], maxNumInClass);
+// if (gr3 !== undefined){
+//     delete groups[1];
+//     delete groups[2];
+// // }
+// console.log(gr3.choices);
+
+// pinned groups to class
+for (let indexGroup = 1; indexGroup <= groups.length; indexGroup++) {
+    if (groups[indexGroup] == undefined) continue;
+
+    for (let std of groups[indexGroup].students) {
+        if (std.classLocked == 1) {
+            classes[std.class].addGroup(groups[indexGroup])
+            groups[indexGroup] = undefined;
+            break;
+        }
+    }
+}
+
+// classes[0] = structuredClone(classes[2]);
+// classes[2].id = 98;
+for (let cls of classes) {
+    if (cls != undefined)
+        console.log(cls.id, cls.students.length, cls.percentBoys, cls.averageHev, cls.averageLimudi)
+}
+
+
+for (let times = 0; times < 20; times++) {
+    
+    
+    
+}
+
+
+function scoreOrder() { }
