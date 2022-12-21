@@ -34,6 +34,19 @@ class Group {
 
     }
 
+    makeClone() {
+        let cloned = new Group(this.id);
+        
+        cloned.students = this.students;
+        cloned.with = this.with;
+        cloned.bans = this.bans;
+        cloned.choices = this.choices;
+        cloned.removedChoices = this.removedChoices;
+        cloned.executedChoices = this.executedChoices;
+
+        return cloned;
+    }
+
 
 
 }
